@@ -1,0 +1,8 @@
+# 時間APIのURLを指定 --- (*1)
+APIは「https://api.aoikujira.com/time/get.php」
+
+# AjaxでAPIにアクセス --- (*2)
+APIからAJAX受信した時には
+　　「現在時刻：{対象}」を表示。
+ここまで。
+

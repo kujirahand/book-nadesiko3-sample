@@ -1,0 +1,8 @@
+# 消費支出のCSVファイルのURL --- (*1)
+データURL=「https://n3s.nadesi.com/image.php?f=21.csv」
+
+# Ajaxでデータを取得 --- (*2)
+データURLからAJAX受信した時には
+　　# グラフを描画 --- (*3)
+　　対象をCSV取得して線グラフ描画。
+ここまで。
