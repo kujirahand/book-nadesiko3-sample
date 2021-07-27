@@ -5,7 +5,7 @@ W=40。# タイルの幅
 迷路URL=「https://n3s.nadesi.com/image.php?f=19.csv」
 
 # データを読み込む --- (*2)
-迷路URLにAJAX送信した時には
+迷路URLからAJAX受信した時には
 　　対象をCSV取得して迷路に代入。
 　　迷路描画処理。
 ここまで。
